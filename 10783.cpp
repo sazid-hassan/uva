@@ -21,6 +21,6 @@ int main()
         }
         cout<<"Case "<<i+1<<": " <<sum<<endl;
     }
-    cout<<endl;
+    //cout<<endl;
 
 }
