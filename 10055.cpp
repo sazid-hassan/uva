@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-    ifstream cin("10055.in");
-    ofstream cout("10055.out");
+    //ifstream cin("10055.in");
+    //ofstream cout("10055.out");
 
     unsigned long long int a, b, n;
     while(cin >> a >> b)
